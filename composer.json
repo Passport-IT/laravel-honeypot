@@ -1,17 +1,23 @@
 {
-    "name": "spatie/laravel-honeypot",
+    "name": "lukeusher/laravel-honeypot",
     "description": "Preventing spam submitted through forms",
     "keywords": [
         "spatie",
         "laravel-honeypot"
     ],
-    "homepage": "https://github.com/spatie/laravel-honeypot",
+    "homepage": "https://github.com/lukeusher/laravel-honeypot",
     "license": "MIT",
     "authors": [
         {
             "name": "Freek Van der Herten",
             "email": "freek@spatie.be",
             "homepage": "https://spatie.be",
+            "role": "Developer"
+        },
+        {
+            "name": "Luke Usher",
+            "email": "luke.usher@outlook.com",
+            "homepage": "https://github.com/LukeUsher",
             "role": "Developer"
         }
     ],
