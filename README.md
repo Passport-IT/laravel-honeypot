@@ -1,5 +1,7 @@
 # Preventing spam submitted through forms
 
+#### This is a fork of spatie/laravel-honeypot that can be used with Laravel 6 (LTS) after being upgraded to PHP8. The upstream package only retains support for PHP7 with Laravel 6.
+
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/spatie/laravel-honeypot.svg?style=flat-square)](https://packagist.org/packages/spatie/laravel-honeypot)
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/spatie/laravel-honeypot/run-tests?label=tests)
 [![Quality Score](https://img.shields.io/scrutinizer/g/spatie/laravel-honeypot.svg?style=flat-square)](https://scrutinizer-ci.com/g/spatie/laravel-honeypot)
@@ -35,7 +37,7 @@ We highly appreciate you sending us a postcard from your hometown, mentioning wh
 You can install the package via composer:
 
 ```bash
-composer require spatie/laravel-honeypot
+composer require lukeusher/laravel-honeypot dev-master
 ```
 
 Optionally, you can publish the config file of the package.
