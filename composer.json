@@ -1,11 +1,11 @@
 {
-    "name": "lukeusher/laravel-honeypot",
+    "name": "passport-it/laravel-honeypot",
     "description": "Preventing spam submitted through forms",
     "keywords": [
         "spatie",
         "laravel-honeypot"
     ],
-    "homepage": "https://github.com/lukeusher/laravel-honeypot",
+    "homepage": "https://github.com/Passport-IT/laravel-honeypot",
     "license": "MIT",
     "authors": [
         {
